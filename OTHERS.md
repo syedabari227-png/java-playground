@@ -1,6 +1,8 @@
 ### Exams deficiencies ;)
 - JMH 
-- jstats, etc..
-- jmm
-- proxy
-- reactive api
+- jstat, jcmd, jconsole, jlink, jmap,jps 
+- jmm, gc
+- proxies
+- reactive streams api
+- annotation processors
+- profilers
