@@ -1,6 +1,9 @@
 ### Exams deficiencies ;)
 - JMH 
-- jstat, jcmd, jconsole, jlink, jmap,jps 
+- jstat, jcmd, jconsole, jlink, jmap,jps
+- jni 
+- loom
+- valhalla 
 - jmm, gc
 - proxies
 - reactive streams api
