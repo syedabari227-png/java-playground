@@ -1,4 +1,4 @@
-### Exams deficiencies ;)
+### Not covered in any of exam
 - JMH 
 - jstat, jcmd, jconsole, jlink, jmap,jps
 - jni 
