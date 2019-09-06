@@ -35,10 +35,10 @@ Use primitive and binary variations of base interfaces of java.util.function pac
 - Use PreparedStatement to perform CRUD operations
 - Use PreparedStatement and CallableStatement APIs to perform database operations
 ##### Annotations
-Describe the purpose of annotations and typical usage patterns
-Apply annotations to classes and methods
-Describe commonly used annotations in the JDK
-Declare custom annotations
+- Describe the purpose of annotations and typical usage patterns
+- Apply annotations to classes and methods
+- Describe commonly used annotations in the JDK
+- Declare custom annotations
 ##### Exception Handling and Assertions
 - Use try-with-resources construct
 - Create and use custom exception classes
