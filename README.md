@@ -2,10 +2,9 @@ Java playground
 ===
 
 ![Actions status](https://action-badges.now.sh/pawelhenek/java-playground)
-![Actions status](http://aliyunfc.tarocch1.com/github-actions-badge/pawelhenek/java-playground)
 
-- [OCJP SE 11 programmer 1 topics](OCJP_SE_11_PROGRAMMER_I.md)
-- [OCJP SE 11 programmer 2 topics](OCJP_SE_11_PROGRAMMER_II.md)
+- [OCJP SE 11 associate topics](OCJP_SE_11_ASSOCIATE.md)
+- [OCJP SE 11 programmer topics](OCJP_SE_11_PROGRAMMER.md)
 - [OCP, Java EE 7 Application Developer topics](OCP_JEE7.md)
 
 ##### Prerequisites
@@ -38,10 +37,10 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 
 - OCJP I
 - OCJP II
-- spring core
-- spring boot
-- spring cloud
+- spring core, boot, security, data, cloud
 - reactor
+- rdbc
+- adbc
 - axon
 - quarkus
 - akka
@@ -49,7 +48,6 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - hibernate
 - jooq
 - pact
-- spring contracts
 - spock
 - junit
 - mockito
@@ -69,7 +67,6 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - jctools
 - fibers
 - quasar
-- maven
 - JMH 
 - jstat, jcmd, jconsole, jlink, jmap,jps
 - jni 
