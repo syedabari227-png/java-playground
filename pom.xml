@@ -19,6 +19,7 @@
         <module>jooqPlayground</module>
         <module>reactorPlayground</module>
         <module>springBootPlayground</module>
+        <module>javaModuleSystemPlayground</module>
     </modules>
 
 </project>

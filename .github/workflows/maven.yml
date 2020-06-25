@@ -13,5 +13,5 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: '11.0.1'
-      - name: Build with Maven
+      - name: Build with maven all playgrounds
         run: mvn clean install --file pom.xml
