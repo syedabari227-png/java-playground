@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.pawelhenek</groupId>
-    <artifactId>java-playground</artifactId>
+    <artifactId>javaPlayground</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1</version>
 

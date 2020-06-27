@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>com.github.pawelhenek</groupId>
-        <artifactId>java-playground</artifactId>
+        <artifactId>javaPlayground</artifactId>
         <version>0.0.1</version>
     </parent>
 
     <artifactId>javaModuleSystemPlayground</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -69,3 +69,10 @@ interface Outer_Interface {
         }
     }
 }
+
+final class FinalOuterClass {
+
+    class InnerClass {
+
+    }
+}

@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.github.pawelhenek</groupId>
-        <artifactId>java-playground</artifactId>
+        <artifactId>javaPlayground</artifactId>
         <version>0.0.1</version>
     </parent>
 
