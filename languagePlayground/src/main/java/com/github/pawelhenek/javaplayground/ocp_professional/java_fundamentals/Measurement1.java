@@ -1,6 +1,6 @@
 package com.github.pawelhenek.javaplayground.ocp_professional.java_fundamentals;
 
-public interface Measurement {
+public interface Measurement1 {
 
     public default int getLength() {
         System.out.println("getting length");

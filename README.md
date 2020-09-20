@@ -41,9 +41,11 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - reactor
 - javafx
 - rdbc
-- adbc
 - axon
 - quarkus
+- micronaut
+- helidon
+- armeria
 - akka
 - camel
 - hibernate
@@ -79,3 +81,4 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - annotation processors
 - profilers
 - security
+- jgroup

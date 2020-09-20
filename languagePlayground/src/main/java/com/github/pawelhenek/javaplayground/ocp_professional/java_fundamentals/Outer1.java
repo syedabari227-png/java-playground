@@ -5,9 +5,9 @@ public class Outer1 {
     private double d = 10.0;
 
 // do not compile
-//    class Inner {   
+//    class Inner {
 //        public void m1() {
-//         this.d = 20.0;  
+//         this.d = 20.0;
 //    }
 
     abstract class Inner
