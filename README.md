@@ -5,7 +5,7 @@ Java playground
 
 - [OCJP SE 11 associate topics](OCJP_SE_11_ASSOCIATE.md)
 - [OCJP SE 11 programmer topics](OCJP_SE_11_PROGRAMMER.md)
-- [OCP, Java EE 7 Application Developer topics](OCP_JEE7.md)
+- [OCJD SE 11 topics](JAVA_SE_11_DEVELOPER.md)
 
 ##### Prerequisites
 
@@ -19,7 +19,7 @@ Installed java11 and maven (recommended via https://sdkman.io/install)
 
 `mvn clean install`
 
-##### Verified locally with
+##### Verified with
 
 `java --version`
 
@@ -68,6 +68,7 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - resillence4j
 - disruptor 
 - jctools
+- jcstress
 - fibers
 - quasar
 - JMH 
