@@ -86,3 +86,7 @@ Java version: 11.0.2, vendor: Oracle Corporation`
 - kilim
 - dragonwell8 , wisp
 - scouter
+- quickperf
+- async-profiler
+- honest-profiler
+
